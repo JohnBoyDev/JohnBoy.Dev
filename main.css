@@ -1,0 +1,22 @@
+body {
+    background-color:lightgray;
+    margin: 0; 
+    text-align: center;
+}
+
+table {
+    background-color: whitesmoke;
+    border:4px solid black;
+    border-radius: 4px;
+    padding:0.5em 1em;
+    text-align: center !important;
+}
+
+.main {
+    margin: 6rem;
+}
+
+.content {
+    margin: 0 auto;
+    width:70vw;
+}
